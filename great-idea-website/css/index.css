@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5 {
 }
 header nav{
 	display: inline-block;
+<<<<<<< HEAD
 	width: 691px;
 	vertical-align: top;
 	margin-top: 35px;
@@ -152,3 +153,8 @@ margin:32px 0;
 text-align:center;
 font-size:14px;
 } 
+=======
+	margin-top: 34px;
+	margin-left: ;
+
+>>>>>>> refs/remotes/origin/brian-guerrero
